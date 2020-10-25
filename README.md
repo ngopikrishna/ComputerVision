@@ -1,5 +1,4 @@
-#Public Works
-Public facing Repository for all my work that I am doing for showing off my skills to the world. I request you to quote me or drop me an email message on ngopikrishna.public@gmailcom to encourage me if you are referencing my work.
+Public facing Repository for all my work that I am doing for showing off my skills to the world. I request you to quote me or drop me an email message on ngopikrishna.public@gmail.com to encourage me if you are referencing my work.
 
 
 
